@@ -13,7 +13,8 @@ Start the dev server,
 ```
 $ npm run start
 ```
-
+浏览器访问
+http://localhost:8000/editor
 
 #使用的技术栈
 - react
