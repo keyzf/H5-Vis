@@ -1,0 +1,22 @@
+html, body, #root {
+  height: 100%;
+  width: 100vw;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+:root {
+  --sk-size: 40px;
+  --sk-color: #06c;
+}
+
+@import '~react-grid-layout/css/styles.css'; 
+@import '~react-resizable/css/styles.css';
+
+
+.react-grid-item{
+  overflow: hidden;
+}
